@@ -1,6 +1,6 @@
 ![](slides/Slide0.png)
 
-Welcome to the Introduction to Cloudant course, an eighteen part video series that gives you an overview of the IBM Cloudant databases-as-a-service.
+
 
 ![](slides/Slide1.png)
 
