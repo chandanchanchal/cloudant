@@ -107,9 +107,9 @@ Note: Cloudant products based of CouchDB 4 may have a different consistency mode
 
 ---
 
-That's the end of this course. For more information please consult our documentation and our blog.
+
  
-![](slides/Slide199.png)
+
 
 ---
 
